@@ -1,2 +1,18 @@
-# how-login-works
-Understanding federated login through SAML and OpenID Connect
+# How a Login Actually Works
+
+Lab 3: understanding federated login using Microsoft Entra ID and Salesforce as an example application. This is a conceptual study, not a configured Salesforce integration.
+
+## Work so far
+- [Six vocabulary terms](docs/vocabulary.md)
+- [SAML and OIDC flows, answers and comparison](docs/saml-and-oidc.md)
+- [Original SAML drawing](diagrams/saml-flow-handdrawn.png)
+- [Original OIDC drawing](diagrams/oidc-flow-handdrawn.png)
+
+The original hand drawings are preserved unchanged. The flow notes explain label clarifications and validation steps.
+
+## Remaining work
+- Trust configuration and security failure scenarios
+- Clean redraws
+- Written login explanation and a 90-second explain-back without notes
+
+Status: in progress.
