@@ -1,8 +1,9 @@
 # How a Login Actually Works
 
-Lab 3: understanding federated login using Microsoft Entra ID and Salesforce as an example application. This is a conceptual study, not a configured Salesforce integration.
+Lab 3: understanding federated login using Microsoft Entra ID and Salesforce as an example application. This combines a conceptual study with a Microsoft Graph Explorer practical exercise; it is not a configured Salesforce integration.
 
 ## Work so far
+- [Graph Explorer practical and token inspection](docs/token-inspection.md)
 - [Six vocabulary terms](docs/vocabulary.md)
 - [SAML and OIDC flows, answers and comparison](docs/saml-and-oidc.md)
 - [Original SAML drawing](diagrams/saml-flow-handdrawn.png)
