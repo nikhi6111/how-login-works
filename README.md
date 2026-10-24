@@ -7,13 +7,14 @@ Lab 3: understanding federated login using Microsoft Entra ID and Salesforce as 
 - [Trust configuration and security lessons](docs/how-trust-works.md)
 - [Six vocabulary terms](docs/vocabulary.md)
 - [SAML and OIDC flows, answers and comparison](docs/saml-and-oidc.md)
+- [Clean SAML diagram](diagrams/saml-flow.md)
+- [Clean OIDC diagram](diagrams/oidc-flow.md)
 - [Original SAML drawing](diagrams/saml-flow-handdrawn.png)
 - [Original OIDC drawing](diagrams/oidc-flow-handdrawn.png)
 
 The original hand drawings are preserved unchanged. The flow notes explain label clarifications and validation steps.
 
 ## Remaining work
-- Clean redraws
 - Written login explanation and a 90-second explain-back without notes
 
 Status: in progress.
